@@ -1,5 +1,7 @@
 <?php
 
+namespace Plural;
+
 /**
  * Contains functions that may be used to pluralize words according to the
  * pluralization rules of a given language.

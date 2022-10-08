@@ -4,5 +4,8 @@
   "license": "MIT",
   "authors": [
     {"name": "mjackson"}
-  ]
+  ],
+  "autoload": {
+    "psr-4": { "Plural\\": "lib" }
+  }
 }
