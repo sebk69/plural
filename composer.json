@@ -3,6 +3,6 @@
   "type": "library",
   "license": "MIT",
   "authors": [
-    "mjackson"
+    {name: "mjackson"}
   ]
 }
