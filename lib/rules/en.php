@@ -1,5 +1,7 @@
 <?php
 
+use Plural\Plural;
+
 Plural::setLanguage(basename(__FILE__, '.php'));
 
 # each rule is a regular expression and its replacement
